@@ -36,9 +36,7 @@ Now you will load up with an empty canvas and you can add to it all you want! Yo
 
 The install and install process is located here [Node](https://nodejs.org/en/download) for NodeJS. NPM comes packaged with it as well
 
-Once you have finished this installation process, visit the Have Nodejs and Mongodb section
-
-## Have Nodejs and Mongodb
+Once you have finished this installation process, visit the Have Nodejs and Mongodb section ** Have Nodejs and Mongodb ** 
 
 
 
