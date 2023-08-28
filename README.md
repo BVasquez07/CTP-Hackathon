@@ -13,7 +13,7 @@
 ## Have Nodejs and Mongodb
 After downloading the resources from the git repo
 
-In your command line interface navigate to the folder containing all the files the path should look something like this:
+In your command line interface navigate to the folder containing all the files.
 
 
 ### First
