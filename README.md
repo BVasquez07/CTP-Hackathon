@@ -34,7 +34,7 @@ Now you will load up with an empty canvas and you can add to it all you want! Yo
 
 ## No Node But Have Mongodb
 
-The install and install process is located here [Node](https://nodejs.org/en/download) for NodeJS. NPM comes packaged with it as well
+The installation process is located here [Node](https://nodejs.org/en/download) for NodeJS. NPM comes packaged with it as well
 
 Once you have finished this installation process, visit the Have Nodejs and Mongodb section **Have Nodejs and Mongodb** section
 
@@ -50,7 +50,7 @@ Once you have finished this installation process, visit the **Have Nodejs and Mo
 
 
 ## Neither
-The install and install process is located here [Node](https://nodejs.org/en/download) for NodeJS. NPM comes packaged with it as well
+The installation process is located here [Node](https://nodejs.org/en/download) for NodeJS. NPM comes packaged with it as well
 
 The installation process for MongoDB is located here [mongo](https://www.mongodb.com/docs/manual/installation/)
 
