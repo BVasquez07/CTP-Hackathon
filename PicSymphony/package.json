@@ -1,0 +1,19 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js --w"
+  },
+  "author": "Brandon Vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "jquery": "*",
+    "mongoose": "*",
+    "multer": "*",
+    "nodemon": "*",
+    "socket.io": "*"
+  }
+}
