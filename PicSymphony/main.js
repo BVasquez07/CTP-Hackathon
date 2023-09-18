@@ -69,7 +69,6 @@ getPositions().then(initFetch => storeData = initFetch).catch((err) => {console.
 //serve static content
 app.use(express.static(path.join(__dirname, 'newSrc')));//we need so statically serve our images
 //will return an array of the documents from the db
-//JSON.stringify() the fetched data to ouput the log to the console on the client side
 //create a new connection
 
 app.get('/', (req, res, next) =>{//setting our route and serving the page
