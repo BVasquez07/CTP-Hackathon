@@ -41,7 +41,7 @@ Once you have finished this installation process, visit the Have Nodejs and Mong
 
 
 
-## No Mondodb But Have Node
+## No Mongodb But Have Node
 The installation process for MongoDB is located here [mongo](https://www.mongodb.com/docs/manual/installation/)
 
 Once you have finished this installation process, visit the **Have Nodejs and Mongodb** section
